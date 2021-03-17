@@ -1,0 +1,6 @@
+# > ITV Hub
+USER-AGENT,ITV_Player*, ITV Hub
+DOMAIN-KEYWORD,itv,ITV Hub
+DOMAIN-SUFFIX,itv.com,ITV Hub
+DOMAIN-SUFFIX,s418.mxcdn.com,ITV Hub
+DOMAIN-SUFFIX,europe-west1-itv-ds-prd.cloudfunctions.net,ITV Hub
