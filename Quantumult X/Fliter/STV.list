@@ -1,0 +1,7 @@
+# > STV
+USER-AGENT,STV%20Player*, STV
+DOMAIN-KEYWORD,stv,STV
+DOMAIN-SUFFIX,stv.tv,STV
+DOMAIN-SUFFIX,bcboltstv-a.akamaihd.net,STV
+DOMAIN-SUFFIX,uk-dev-stv.videoplaza.tv,STV
+DOMAIN-SUFFIX,cf-images.eu-west-1.prod.boltdns.com,STV
