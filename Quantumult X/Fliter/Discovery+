@@ -1,5 +1,5 @@
 # > Discovery+
-USER-AGENT,DPlus*
+USER-AGENT,DPlus*,Discovery+
 DOMAIN-SUFFIX,discoveryplus.com,Discovery+
 DOMAIN-SUFFIX,disco-api.com,Discovery+
 DOMAIN-SUFFIX,us1-prod-images.disco-api.com,Discovery+
