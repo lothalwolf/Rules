@@ -1,0 +1,16 @@
+#ABC iView
+# > ABC iview
+USER-AGENT,ABC-iview*, ABC iview
+USER-AGENT,ABC%20Listen*, ABC iview
+DOMAIN-SUFFIX,net.au,ABC iview
+DOMAIN-SUFFIX,abcradio.net.au,ABC iview
+DOMAIN-SUFFIX,gigya.com,ABC iview
+DOMAIN-SUFFIX,abc.net.au,ABC iview
+DOMAIN-SUFFIX,abc-dn-listen.s3-ap-southeast-2.amazonaws.com,ABC iview
+
+# >9Now
+USER-AGENT,9Now*, 9Now
+DOMAIN-SUFFIX,net.au,9Now
+DOMAIN-SUFFIX,static9.net.au,9Now
+DOMAIN-SUFFIX,nine.com.au,9Now
+DOMAIN-SUFFIX,9now.com.au,9Now
