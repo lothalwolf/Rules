@@ -1,4 +1,10 @@
 # > Star+
-USER-AGENT,Starplus*, Star+
+USER-AGENT,Starplus*,Star+
 DOMAIN-KEYWORD,starplus,Star+
 DOMAIN-SUFFIX,starplus.com,Star+
+
+# > Kwai
+USER-AGENT,kwai-ios*,Kwai
+DOMAIN-KEYWORD,kwai,Kwai
+DOMAIN-SUFFIX,kwai.net,Kwai
+DOMAIN-SUFFIX,kwai-pro.com,Kwai
